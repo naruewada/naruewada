@@ -1,8 +1,8 @@
 
-• Hi,I'm Naruewada<br>
-• Hi,I'm Naruewada<br>
-• Hi,I'm Naruewada<br>
-• for contact (Naruewada.115244@mail.kmutt.ac.th)
+• Hi,I'm Naruewada.<br>
+• I am a computer science student at KMUTT.<br>
+•  I am interested in learning and developing myself in Full-stack, Web application and Moblie application
+• for contact Naruewada.115244@mail.kmutt.ac.th
 <!--
 **naruewada/naruewada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
