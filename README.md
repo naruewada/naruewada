@@ -3,11 +3,11 @@
 • I am a computer science student at KMUTT.<br>
 •  I am interested in learning and developing myself in Full-stack, Web application and Moblie application.<br>
 • for contact Naruewada.115244@mail.kmutt.ac.th<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wattanasiri&show_icons=true&theme=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naruewada&show_icons=true&theme=white)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wattanasiri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naruewada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **naruewada/naruewada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
