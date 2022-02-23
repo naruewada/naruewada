@@ -1,5 +1,8 @@
 
 • Hi,I'm Naruewada
+• Hi,I'm Naruewada
+• Hi,I'm Naruewada
+• for contact !Naru
 <!--
 **naruewada/naruewada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
