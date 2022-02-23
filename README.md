@@ -2,7 +2,7 @@
 • Hi,I'm Naruewada<br>
 • Hi,I'm Naruewada<br>
 • Hi,I'm Naruewada<br>
-• for contact <a>Naru
+• [for contact](Naruewada.115244@mail.kmutt.ac.th)
 <!--
 **naruewada/naruewada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
