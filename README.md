@@ -2,7 +2,7 @@
 • Hi,I'm Naruewada.<br>
 • I am a computer science student at KMUTT.<br>
 •  I am interested in learning and developing myself in Full-stack, Web application and Moblie application.<br>
-• for contact: Naruewada.115244@mail.kmutt.ac.th<br><br>
+• for contact: Naruewada.115244@gmail.com<br><br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naruewada&show_icons=true&theme=dark)
 
 <br/>
